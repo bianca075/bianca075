@@ -23,7 +23,7 @@ jobs:
         with:
           github_user_name: bianca075
           outputs: |
-            dist/snake-custom.svg?color_snake=%231F6FEB&color_dots=%2321262D,%23A5D8FF,%237CB8FF,%2358A6FF,%23249AF3
+            dist/snake-custom.svg?color_snake=%23C4B5FD&color_dots=%23F1EAFE,%23E9D5FF,%23C4B5FD,%23A78BFA,%237C3AED
 
 
       - name: push snake.svg to the output branch
