@@ -31,7 +31,7 @@ um textinho sobre mim.
 #
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/bianca075/bianca075/output/snake-custom.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bianca075/bianca075/output/snake-custom.svg?v=2" alt="Snake animation" />
 </div>
 
 #
