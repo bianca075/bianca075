@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C4B5FD&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+#
 
 um textinho sobre mim.
 
-##
+#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -22,13 +23,15 @@ um textinho sobre mim.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div> 
 
-##
+#
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=biancadp005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bianca-santos-ab83492b3)
 
-##
+#
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/bianca075/bianca075/output/snake-custom.svg" alt="Snake animation" />
 </div>
+
+#
