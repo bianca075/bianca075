@@ -2,7 +2,7 @@
 
 um textinho sobre mim.
 
-### ⚙ Linguagens e tecnologias
+----------
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -20,11 +20,15 @@ um textinho sobre mim.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  	
+</div> 
 
-  
-  
+----------
 
-</div>   
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=biancadp005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bianca-santos-ab83492b3)
 
 ##
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bianca075/bianca075/output/snake-custom.svg" alt="Snake animation" />
+</div>
