@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <!--
 **bianca075/bianca075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
