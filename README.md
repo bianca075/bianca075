@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A78BFA&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-  Sou estudante de Ciência da Computação com foco em desenvolvimento de software e Inteligência Artificial aplicada. Tenho experiência com C, C#, Python, Java e Kotlin, além de integração de APIs REST e controle de versão com Git. No momento, aprofundo meus estudos em Android nativo e agentes inteligentes, buscando sempre unir código limpo, estabilidade e uma boa experiência de uso.
+Sou estudante de Ciência da Computação, com base sólida em programação e experiência em integração REST e controle de versão com Git. Atualmente, aprofundo meus conhecimentos em Android (Kotlin) e Inteligência Artificial aplicada, buscando unir teoria e prática no desenvolvimento de soluções eficientes. Tenho conhecimento em C, Python, Java, Kotlin e C#, além de noções de SQL para modelagem e consultas em banco de dados. Tenho facilidade em aprender novas tecnologias, atenção aos detalhes e foco em criar sistemas estáveis, bem estruturados e de fácil manutenção.
 
 #
 
