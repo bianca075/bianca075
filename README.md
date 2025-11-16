@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A78BFA&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-Sou estudante de Ciência da Computação, com base sólida em programação e experiência em integração REST e controle de versão com Git. Atualmente, aprofundo meus conhecimentos em Android (Kotlin) e Inteligência Artificial aplicada, buscando unir teoria e prática no desenvolvimento de soluções eficientes. Tenho conhecimento em C, Python, Java, Kotlin e C#, além de noções de SQL para modelagem e consultas em banco de dados. Tenho facilidade em aprender novas tecnologias, atenção aos detalhes e foco em criar sistemas estáveis, bem estruturados e de fácil manutenção.
+  Sou estudante de Ciência da Computação, com base sólida em programação e experiência em integração REST e controle de versão com Git. Atualmente, aprofundo meus conhecimentos em Android (Kotlin) e Inteligência Artificial aplicada, buscando unir teoria e prática no desenvolvimento de soluções eficientes. Tenho conhecimento em C, Python, Java, Kotlin e C#, além de noções de SQL para modelagem e consultas em banco de dados. Tenho facilidade em aprender novas tecnologias, atenção aos detalhes e foco em criar sistemas estáveis, bem estruturados e de fácil manutenção.
 
 #
 
@@ -27,6 +27,12 @@ Sou estudante de Ciência da Computação, com base sólida em programação e e
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=biancadp005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-santos-ab83492b3/)
 
+#
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca075&layout=compact&hide_border=true&bg_color=00000000&title_color=C084F5&text_color=C9D1D9&custom_title=Most%20Used%20Languages&theme=midnight-purple"
+  alt="Most Used Languages"
+/>
 
 #
 
